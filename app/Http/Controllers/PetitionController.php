@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Settings;
 use App\Petition;
+use Illuminate\Support\Facades\Cookie;
 
 class PetitionController extends Controller
 {
@@ -18,11 +19,12 @@ class PetitionController extends Controller
             $petition = Petition::first();
         }
 
-        $hasVoted = false;
-        //TODO get hasVoted from cookies
+        $decision = Cookie::get('decision');
+        $hasVoted = $decision == null ? false : true;
         return view('petition', [
             'petition' => $petition,
-            'hasVoted' => $hasVoted
+            'hasVoted' => $hasVoted,
+            'decision' => $decision
             ]);
     }
 
@@ -35,7 +37,8 @@ class PetitionController extends Controller
         if($petition->enable_yes) {
             $petition->upvotes += 1;
             $petition->save();
-            return redirect()->back();
+            $userCookie = cookie('decision', 'yes', 60);
+            return redirect()->back()->cookie($userCookie);
         } else {
             return redirect()->back()->with(['message' => 'Wrong answer!']);
         }
@@ -46,7 +49,8 @@ class PetitionController extends Controller
         if($petition->enable_yes) {
             $petition->upvotes -= 1;
             $petition->save();
-            return redirect()->back();
+            $userCookie = cookie('decision', 'no', 60);
+            return redirect()->back()->cookie($userCookie);
         } else {
             return redirect()->back()->with(['message' => 'Wrong answer!']);
         }
