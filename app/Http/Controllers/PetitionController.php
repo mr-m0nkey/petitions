@@ -52,7 +52,7 @@ class PetitionController extends Controller
             $userCookie = cookie('decision', 'no', 60);
             return redirect()->back()->cookie($userCookie);
         } else {
-            return redirect()->back()->with(['message' => 'Wrong answer!']);
+            return redirect()->back()->with('message', 'Wrong answer!');
         }
     }
 

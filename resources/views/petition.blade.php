@@ -78,6 +78,7 @@
                 <p>{!!$petition->body!!}</p>
             </div>
 
+            <p>{{$hasVoted ? "Thanks for signing this petition!" : ""}}
             <div class="links">
                 <button {{$petition->enable_yes && !$hasVoted ? "" : "disabled"}} onclick = upvote({{$petition->id}})>Yes</button>
                 <button {{$petition->enable_no && !$hasVoted ? "" : "disabled"}}  onclick = downvote({{$petition->id}})>No</button>
