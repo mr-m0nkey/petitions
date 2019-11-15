@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Petition | {{$petition->title}}</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -85,8 +85,8 @@
                 </div>
 
                 <div class="links">
-                    <button>Yes</button>
-                    <button disabled>No</button>
+                    <button {{$petition->enable_yes ? "" : "disabled"}}>Yes</button>
+                    <button {{$petition->enable_no ? "" : "disabled"}}>No</button>
                 </div>
             </div>
         </div>
