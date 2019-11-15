@@ -75,7 +75,7 @@
                 {{$petition->title}}
             </div>
             <div class = "m-b-md">
-                <p>{{$petition->body}}</p>
+                <p>{!!$petition->body!!}</p>
             </div>
 
             <div class="links">
