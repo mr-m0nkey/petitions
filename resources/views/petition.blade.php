@@ -81,9 +81,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Change a life | Sign a petition today!
+                    {{$petition->title}}
                 </div>
 
+                <div class="links">
+                    <button>Yes</button>
+                    <button disabled>No</button>
+                </div>
             </div>
         </div>
     </body>
