@@ -11,8 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/petition', 'PetitionController@getFeaturedPetition');
+Route::get('/petition/upvote/{id}', 'PetitionController@upvotePetition');
+Route::get('/petition/downvote/{id}', 'PetitionController@downVotePetition');
 
-Route::get('/petitions', 'PetitionController@getFeaturedPetition');
+
+
+Route::get('/', 'PetitionController@home');

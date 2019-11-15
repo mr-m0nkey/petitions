@@ -17,19 +17,39 @@ class PetitionController extends Controller
         if($petition == null) {
             $petition = Petition::first();
         }
-        return view('petition', ['petition' => $petition]);
+
+        $hasVoted = false;
+        //TODO get hasVoted from cookies
+        return view('petition', [
+            'petition' => $petition,
+            'hasVoted' => $hasVoted
+            ]);
     }
 
     public function getAllPetitions() {
-        
+        return view('all-petitions', ['petitions' => Petition::all()]);
     }
 
-    public function upvotePetition(Request $request) {
-
+    public function upvotePetition($id) {
+        $petition = Petition::findOrFail($id);
+        if($petition->enable_yes) {
+            $petition->upvotes += 1;
+            $petition->save();
+            return redirect()->back();
+        } else {
+            return redirect()->back()->with(['message' => 'Wrong answer!']);
+        }
     }
 
-    public function downvotePetition(Request $request) {
-
+    public function downvotePetition($id) {
+        $petition = Petition::findOrFail($id);
+        if($petition->enable_yes) {
+            $petition->upvotes -= 1;
+            $petition->save();
+            return redirect()->back();
+        } else {
+            return redirect()->back()->with(['message' => 'Wrong answer!']);
+        }
     }
 
     public function updatePetiton(Request $request) {
@@ -40,7 +60,8 @@ class PetitionController extends Controller
 
     }
 
-
-
+    public function home(Request $request) {
+        return view('welcome');
+    }
 
 }
