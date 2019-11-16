@@ -15,7 +15,7 @@ class PetitionsSeeder extends Seeder
             'title' => "Petition to Shawn to let Bobby eat her work",
             'slug' => "petition-to-shawn-to-let-bobby-eat-her-work",
             'body' => "There are thousands of starving youths without any form of work on their plates. With the right vote you could reduce that number by 1. <p>Help a hungry soul today</p>",
-            'upvotes' => 100,
+            'upvotes' => 0,
             'downvotes' => 0,
             'enable_yes' => true,
             'enable_no' => true
