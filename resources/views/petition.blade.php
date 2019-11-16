@@ -133,14 +133,14 @@
                 <div class="petition-results">
 
                     <div class="progress m-b-md">
-                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="{{($petition->upvotes / ($petition->upvotes + $petition->downvotes)) * 100}}"
-                            aria-valuemin="0" aria-valuemax="100" style="width:{{($petition->upvotes / ($petition->upvotes + $petition->downvotes)) * 100}}%">
+                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="{{($petition->upvotes / ($petition->upvotes + $petition->downvotes + 1)) * 100}}"
+                            aria-valuemin="0" aria-valuemax="100" style="width:{{($petition->upvotes / ($petition->upvotes + $petition->downvotes + 1)) * 100}}%">
                         </div>
                     </div>
 
                     <div class="progress m-b-md">
-                        <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="{{($petition->downvotes / ($petition->upvotes + $petition->downvotes)) * 100}}"
-                            aria-valuemin="0" aria-valuemax="100" style="width:{{($petition->downvotes / ($petition->upvotes + $petition->downvotes)) * 100}}%">
+                        <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="{{($petition->downvotes / ($petition->upvotes + $petition->downvotes + 1)) * 100}}"
+                            aria-valuemin="0" aria-valuemax="100" style="width:{{($petition->downvotes / ($petition->upvotes + $petition->downvotes + 1)) * 100}}%">
                         </div>
                     </div>
 
