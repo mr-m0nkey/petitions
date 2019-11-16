@@ -18,7 +18,7 @@ class PetitionsSeeder extends Seeder
             'upvotes' => 100,
             'downvotes' => 0,
             'enable_yes' => true,
-            'enable_no' => false
+            'enable_no' => true
         ]);
     }
 }
