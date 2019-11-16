@@ -47,7 +47,7 @@ class PetitionController extends Controller
     public function downvotePetition($id) {
         $petition = Petition::findOrFail($id);
         if($petition->enable_yes) {
-            $petition->upvotes -= 1;
+            $petition->downvotes += 1;
             $petition->save();
             $userCookie = cookie('decision', 'no', 60);
             return redirect()->back()->cookie($userCookie);
