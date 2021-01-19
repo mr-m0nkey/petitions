@@ -72,11 +72,7 @@
                 <div class="title m-b-md">
                     Who is the imposter?
                 </div>
-                
-
-            </div>
-
-            <p>2 masks of unknown origin were found in my house today. All 4 suspects have been notified and have been asked to confess but all remain quiet. Now they must rat each other out by voting for who they think owns the masks</p>
+                <p>2 masks of unknown origin were found in my house today. All 4 suspects have been notified and have been asked to confess but all remain quiet. Now they must rat each other out by voting for who they think owns the masks</p>
                 <p>16:10: One person suspects Ope, Ope denies</p>
                 <p>The person takes back their vote<p>
                 <p>16:20: Nobody can be trusted, more people cast their votes. Tensions rise</p>
@@ -108,6 +104,10 @@
                 <p>16:38: Another confession, but the trust has already been broken. Nobody still knows who owns both masks except the moderator. Some have been accused unjustly by those they once considered friends</p>
 
                 <p><b>Find out who the imposter is at 22:00 tonight</b></p>
+
+            </div>
+
+      
         </div>
     </body>
 </html>
