@@ -105,7 +105,7 @@
                 <p>16:48: One person refuses to vote</p>
                 <p>18:58: Someone has claimed the votes of the weyrey who decided not to vote
                 <ul>
-                <li>Mide: 3 vots (suspect still dey correct my typo) *votes</li>
+                <li>Mide: 3 votes</li>
                 <li>Ore: 2 vote</li>
                 <li>Kayode: 2 votes</li>
                 <li>Mayowa: 1 vote</li>
