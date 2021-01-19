@@ -177,6 +177,7 @@
 
                     <p>"I'm not too surprised about Ope, all that one does is keep afro and fly shirt, open top button for woman."</p>
 
+                    <p>"I just feel sorry for Sir K, always getting dragged in the mud for the barest minimum😩😩"</p>
 
 
 
