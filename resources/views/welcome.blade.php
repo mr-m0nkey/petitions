@@ -49,6 +49,10 @@
             font-size: 84px;
         }
 
+        .bold {
+            font-size: 20px;
+        }
+
         .links>a {
             color: #636b6f;
             padding: 0 25px;
@@ -167,6 +171,8 @@
                     <p>10:00: The moment of truth is upon us. Who is the imposter?</p>
                     <p>There are 2 imposters among us</p>
                     <p>Ope owns one of the mask, but nobody voted for him. He was also the first to confess</p>
+
+                    <p>The second imposter might shock you. You thought it was Kayode, <span class="bold">BUT IT WAS I, MAYOWA</span>. It was an old mask I forgot I had. Only one person came close to the truth</p>
 
 
 
