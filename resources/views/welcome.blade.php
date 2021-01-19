@@ -18,6 +18,7 @@
                 font-weight: 200;
                 height: 100vh;
                 margin: 0;
+                padding-top: 80px;
             }
 
             .full-height {
@@ -63,7 +64,7 @@
             }
         </style>
     </head>
-    <body style="padding-top: 80px;" >
+    <body >
         <div class="flex-center position-ref full-height">
            
 
