@@ -122,6 +122,7 @@
                     </p>
 
                     <p>19:00: Members of the general public have been given the opportunity to vote.(DM your votes)</p>
+                    <p>Suspects: Mide, Kayode, Ore, Mayowa, Ope</p>
                     <p>19:11: A vote has been cast against Kayode.
                     <ul>
                             <li>Mide: 3 votes</li>
