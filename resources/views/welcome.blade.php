@@ -155,6 +155,16 @@
 
 
                     <p>"Person vote kayode 3 times lmfao, now I feel bad for him, but his name too sketchy" - One of the people that voted for Kayode.</p>
+                    <p>21:29: Another vote for Kayode. nawa. "Whatever happened... He did that shit"
+                    <ul>
+                            <li>Kayode: 6 votes</li>
+                            <li>Mide: 3 votes</li>
+                            <li>Ore: 2 votes</li>
+                            <li>Mayowa: 1 vote</li>
+                        </ul>
+                    </p>
+
+
 
 
 
