@@ -71,7 +71,7 @@
                 <div class="title m-b-md">
                     Who is the imposter?
                 </div>
-                <p>2 masks of unknown origin were found in my house today. All 4 suspects have been notified and have been asked to confess but all remain quiet. Now they must rat each other out by voting fpor who they think owns the masks</p>
+                <p>2 masks of unknown origin were found in my house today. All 4 suspects have been notified and have been asked to confess but all remain quiet. Now they must rat each other out by voting for who they think owns the masks</p>
                 <p>16:10: One person suspects Ope, Ope denies</p>
                 <p>The person takes back their vote<p>
                 <p>16:20: Nobody can be trusted, more people cast their votes. Tensions rise</p>
