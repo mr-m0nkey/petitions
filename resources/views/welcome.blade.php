@@ -121,6 +121,8 @@
 
                     </p>
 
+                    <p>19:00: Members of the general public have been given the opportunity to vote.</p>
+
                     <p><strong>Find out who the imposter is at 22:00 tonight (19/01/2021)</strong></p>
 
         </div>
