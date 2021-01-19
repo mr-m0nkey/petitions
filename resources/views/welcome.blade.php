@@ -178,7 +178,7 @@
 
 
 
-                    <p><strong>E don happen</strong></p>
+                    <p><strong>E don happen, this site will be deleted in a few hours. Bye</strong></p>
 
         </div>
 
