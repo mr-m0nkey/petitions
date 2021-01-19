@@ -11,9 +11,9 @@
 |
 */
 
-Route::get('/petition', 'PetitionController@getFeaturedPetition');
-Route::get('/petition/upvote/{id}', 'PetitionController@upvotePetition');
-Route::get('/petition/downvote/{id}', 'PetitionController@downVotePetition');
+// Route::get('/petition', 'PetitionController@getFeaturedPetition');
+// Route::get('/petition/upvote/{id}', 'PetitionController@upvotePetition');
+// Route::get('/petition/downvote/{id}', 'PetitionController@downVotePetition');
 
 
 
