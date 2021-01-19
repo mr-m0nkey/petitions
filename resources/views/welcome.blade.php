@@ -156,6 +156,9 @@
                     <p>Ope still doesn't have a single vote against his name</p>
 
 
+                    <p>"Person vote kayode 3 times lmfao, now I feel bad for him, but his name too sketchy" - One of the people that voted for Kayode.</p>
+
+
 
                     <p><strong>Find out who the imposter is at 22:00 tonight (19/01/2021)</strong></p>
 
