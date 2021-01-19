@@ -122,6 +122,15 @@
                     </p>
 
                     <p>19:00: Members of the general public have been given the opportunity to vote.</p>
+                    <p>19:11: A vote has been cast against Kayode.
+                    <ul>
+                            <li>Mide: 3 votes</li>
+                            <li>Ore: 2 votes</li>
+                            <li>Kayode: 3 votes</li>
+                            <li>Mayowa: 1 vote</li>
+                        </ul>
+                    </p>
+
 
                     <p><strong>Find out who the imposter is at 22:00 tonight (19/01/2021)</strong></p>
 
