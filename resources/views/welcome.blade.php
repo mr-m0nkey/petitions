@@ -175,6 +175,9 @@
                     <p>The second imposter might shock you. You thought it was Kayode, <span class="bold">BUT IT WAS I, MAYOWA</span>. It was an old mask I forgot I had. Only one person came close to the truth</p>
 
 
+                    <p>"I'm not too surprised about Ope, all that one does is keep afro and fly shirt"</p>
+
+
 
 
 
