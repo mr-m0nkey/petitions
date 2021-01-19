@@ -42,9 +42,9 @@ return [
     'connections' => [
 
         'your_heroku_mysql_connection' => array(
-            'driver' => 'mysql',
+            'driver' => 'sqlite',
             'host' => $host,
-            'database' => $database,
+            'database' => ':memory:',
             'username' => $username,
             'password' => $password,
             'charset' => 'utf8',
