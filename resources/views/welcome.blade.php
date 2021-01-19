@@ -165,6 +165,8 @@
                     </p>
 
                     <p>10:00: The moment of truth is upon us. Who is the imposter?</p>
+                    <p>There are 2 imposters among us</p>
+                    <p>Ope owns one of the mask, but nobody voted for him. He was also the first to confess</p>
 
 
 
