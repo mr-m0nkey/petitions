@@ -102,7 +102,7 @@
 
 
                 <p>16:38: Another confession, but the trust has already been broken. Nobody still knows who owns both masks except the moderator. Some have been accused unjustly by those they once considered friends</p>
-
+                <p>16:48: One person refuses to vote</p>
                 <p><strong>Find out who the imposter is at 22:00 tonight</strong></p>
 
             </div>
