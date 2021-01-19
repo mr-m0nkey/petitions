@@ -71,6 +71,7 @@
                 <div class="title m-b-md">
                     Who is the imposter?
                 </div>
+                <p>Find out at 22:00 tonight</p>
 
             </div>
         </div>
