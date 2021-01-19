@@ -179,6 +179,8 @@
 
                     <p>"I just feel sorry for Sir K, always getting dragged in the mud for the barest minimum😩😩"</p>
 
+                    <p>"It’s def Kayode.  Na him be ajala travel"</p>
+
 
 
 
