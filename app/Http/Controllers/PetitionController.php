@@ -56,13 +56,13 @@ class PetitionController extends Controller
         }
     }
 
-    public function updatePetiton(Request $request) {
+    // public function updatePetiton(Request $request) {
 
-    }
+    // }
 
-    public function deletePetition($id) {
+    // public function deletePetition($id) {
 
-    }
+    // }
 
     public function home(Request $request) {
         return view('welcome');
