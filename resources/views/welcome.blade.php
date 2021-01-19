@@ -141,7 +141,19 @@
                             <li>Ore: 2 votes</li>
                             <li>Mayowa: 1 vote</li>
                         </ul>
-                    </p></p>
+                    </p>
+
+                    <p>19:26: It seems the suspect known with the government name of Kayode is a prime suspect as another member of the public votes for him. "I’m voting him 3 times"</p>
+                    <p>Luckily for Kayode, they only get one vote
+                    <ul>
+                            <li>Kayode: 5 votes</li>
+                            <li>Mide: 3 votes</li>
+                            <li>Ore: 2 votes</li>
+                            <li>Mayowa: 1 vote</li>
+                        </ul>
+                    </p>
+
+
 
                     <p><strong>Find out who the imposter is at 22:00 tonight (19/01/2021)</strong></p>
 
