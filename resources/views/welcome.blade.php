@@ -153,6 +153,8 @@
                         </ul>
                     </p>
 
+                    <p>Ope still doesn't have a single vote against his name</p>
+
 
 
                     <p><strong>Find out who the imposter is at 22:00 tonight (19/01/2021)</strong></p>
