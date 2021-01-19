@@ -88,7 +88,7 @@
 
                 <p>Accusations everywhere as more people vote
                 <ul>
-                <li>Mide: 2 vots</li>
+                <li>Mide: 2 vots (suspect still dey correct my typo) *votes</li>
                 <li>Ore: 1 vote</li>
                 <li>Kayode: 2 votes</li>
                 <li>Mayowa: 1 vote</li>
