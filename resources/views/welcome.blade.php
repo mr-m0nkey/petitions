@@ -132,6 +132,9 @@
                     </p>
 
 
+                    <p>19:12: "I don't know who Mide is but the name seems like a culprit" - An observation from a member of the general public</p>
+
+
                     <p><strong>Find out who the imposter is at 22:00 tonight (19/01/2021)</strong></p>
 
         </div>
