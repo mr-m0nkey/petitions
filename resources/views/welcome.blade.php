@@ -84,6 +84,22 @@
         
                 </ul>
                 </p>
+
+                <p>Accusations everywhere as more people vote
+                <ul>
+                <li>Mide: 2 vots</li>
+                <li>Ore: 1 vote</li>
+                <li>Kayode: 2 votes</li>
+                <li>Mayowa: 1 vote</li>
+        
+                </ul>
+                </p>
+
+
+                <p>16:27: One person breaks under pressure and confesses to owning one of the masks. They couldn't deny the evidence provided. But one mask still remains unclaimed</p>
+                <p>The other suspects have been notified of the confession but don't know who confessed, suspense rises.</p>
+
+
                 <p>Find out at 22:00 tonight</p>
 
             </div>
