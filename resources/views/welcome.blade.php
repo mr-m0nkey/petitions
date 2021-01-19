@@ -103,6 +103,17 @@
 
                 <p>16:38: Another confession, but the trust has already been broken. Nobody still knows who owns both masks except the moderator. Some have been accused unjustly by those they once considered friends</p>
                 <p>16:48: One person refuses to vote</p>
+                <p>18:58: Someone has claimed the votes of the weyrey who decided not to vote
+                <ul>
+                <li>Mide: 3 vots (suspect still dey correct my typo) *votes</li>
+                <li>Ore: 2 vote</li>
+                <li>Kayode: 2 votes</li>
+                <li>Mayowa: 1 vote</li>
+        
+                </ul>
+
+                </p>
+                
                 <p><strong>Find out who the imposter is at 22:00 tonight (19/01/2021)</strong></p>
 
             </div>
