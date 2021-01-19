@@ -133,7 +133,14 @@
 
 
                     <p>19:12: "I don't know who Mide is but the name seems like a culprit" - An observation from a member of the general public</p>
-
+                    <p>19:24: "LMFAO, I could swear it was kayode" - A concerned citizen
+                    <ul>
+                            <li>Kayode: 4 votes</li>
+                            <li>Mide: 3 votes</li>
+                            <li>Ore: 2 votes</li>
+                            <li>Mayowa: 1 vote</li>
+                        </ul>
+                    </p></p>
 
                     <p><strong>Find out who the imposter is at 22:00 tonight (19/01/2021)</strong></p>
 
