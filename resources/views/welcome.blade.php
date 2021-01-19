@@ -69,7 +69,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Change a life | Sign a petition today!
+                    Who is the imposter?
                 </div>
 
             </div>
